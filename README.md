@@ -1,2 +1,2 @@
 # acronym-generator
-convert expression into acronym its form
+convert any expression into acronym of its form.
